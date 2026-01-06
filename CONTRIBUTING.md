@@ -1,8 +1,6 @@
-# Concetti C++ Utilizzati nel Progetto Impiccato
+# Concetti C++ Utilizzati
 
-## Guida per la Presentazione
-
-Questo documento elenca tutti i concetti di C++ usati nel progetto.
+Guida completa ai concetti di programmazione C++ utilizzati nel progetto Impiccato.
 
 ---
 

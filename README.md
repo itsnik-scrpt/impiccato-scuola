@@ -1,9 +1,5 @@
 # Gioco dell'Impiccato in C++
 
-> **[Guida ai Concetti C++ utilizzati](CONCETTI_CPP.md)** - Consulta questa guida per comprendere tutti i concetti di programmazione usati nel progetto
-
----
-
 ## Descrizione
 
 Questo è un gioco dell'impiccato implementato in C++ per un compito scolastico di terza liceo.
