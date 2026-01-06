@@ -261,4 +261,3 @@ file.close();
 2. **Separazione**: Header per dichiarazioni, .cpp per implementazione
 3. **Incapsulamento**: Private protegge, public espone
 4. **STL**: Usiamo librerie standard (string, vector, iostream)
-5. **Buone pratiche**: Commenti, nomi chiari, funzioni piccole e specifiche
