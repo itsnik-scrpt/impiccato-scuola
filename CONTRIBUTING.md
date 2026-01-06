@@ -255,41 +255,6 @@ file.close();
 
 ---
 
-## CHECKLIST PER LA PRESENTAZIONE
-
-Quando presenti il progetto, spiega:
-
-- Struttura del progetto: Header (.h) + Implementation (.cpp) + Main
-- Classe Impiccato: Attributi privati e metodi pubblici (incapsulamento)
-- Costruttore: Come inizializzi l'oggetto
-- Vector: Array dinamico che cresce automaticamente
-- Cicli: For per scorrere, while per il gioco, do-while per rigiocare
-- Condizioni: If-else per controllare vittoria/sconfitta
-- File I/O: Leggere parole da file con ifstream
-- Numeri casuali: srand() e rand() per selezionare parole
-- Input/Output: cin e cout per interagire con l'utente
-
----
-
-## DOMANDE PROBABILI E RISPOSTE
-
-**Q: Perché usi un header file separato?**
-A: Per separare interfaccia (cosa fa la classe) dall'implementazione (come lo fa). Rende il codice più organizzato e riutilizzabile.
-
-**Q: Cos'è l'incapsulamento?**
-A: Nascondere i dettagli interni (attributi privati) e fornire un'interfaccia pubblica (metodi pubblici) per accedervi in modo controllato.
-
-**Q: Perché usi vector invece di array normale?**
-A: I vector sono dinamici (dimensione variabile), più sicuri (controllano i limiti) e hanno metodi utili (push_back, size).
-
-**Q: Come funziona il generatore di numeri casuali?**
-A: srand(time(0)) inizializza il seed con il tempo corrente, rand() % n genera un numero tra 0 e n-1.
-
-**Q: Cosa fa l'operatore :: ?**
-A: È l'operatore di risoluzione dello scope. Dice a quale classe/namespace appartiene una funzione (es: Impiccato::tentaLettera).
-
----
-
 ## PUNTI CHIAVE DA RICORDARE
 
 1. **OOP**: Classi e oggetti - modo moderno di organizzare il codice
