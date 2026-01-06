@@ -2,7 +2,6 @@
 
 ## Descrizione
 
-Questo è un gioco dell'impiccato implementato in C++ per un compito scolastico di terza liceo.
 Il gioco carica una lista di parole da un file di testo, ne seleziona una casualmente e il giocatore deve indovinarla lettera per lettera.
 
 ---
