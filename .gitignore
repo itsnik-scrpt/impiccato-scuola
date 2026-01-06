@@ -1,0 +1,27 @@
+# Eseguibili
+*.exe
+*.out
+*.app
+
+# File oggetto compilati
+*.o
+*.obj
+
+# Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+Debug/
+Release/
+x64/
+x86/
+
+# IDE
+.vscode/
+.idea/
+
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
